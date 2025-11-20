@@ -1,7 +1,7 @@
 # KaiCyber Security Vulnerability Dashboard
 
 A comprehensive React-based dashboard application for visualizing and analyzing security vulnerabilities in a software ecosystem. Built with modern web technologies and optimized for handling large datasets (300MB+ JSON files). 
-Demo: http://3.235.238.146
+Demo: https://3.235.238.146
 
 ## Features
 
