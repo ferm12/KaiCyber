@@ -1,6 +1,7 @@
 # KaiCyber Security Vulnerability Dashboard
 
-A comprehensive React-based dashboard application for visualizing and analyzing security vulnerabilities in a software ecosystem. Built with modern web technologies and optimized for handling large datasets (300MB+ JSON files).
+A comprehensive React-based dashboard application for visualizing and analyzing security vulnerabilities in a software ecosystem. Built with modern web technologies and optimized for handling large datasets (300MB+ JSON files). 
+Demo: http://3.235.238.146
 
 ## Features
 
@@ -50,7 +51,7 @@ A comprehensive React-based dashboard application for visualizing and analyzing 
    ```
 
 2. **Place Data File**
-   Ensure `ui_demo.json` is in the `public` directory (or root directory for Vite to serve it)
+   Ensure `https://github.com/chanduusc/Ui-Demo-Data/blob/main/ui_demo.json` file is in the `public` directory (or root directory for Vite to serve it)
 
 3. **Start Development Server**
    ```bash
